@@ -1,0 +1,16 @@
+.container {
+  background-color: #aaa3f7;
+  border-radius: 5px;
+  border: 1px solid #000;
+  margin: 5px; }
+  .container .col-md-1, .container .col-md-2, .container .col-md-3, .container .col-md-4, .container .col-md-5,
+  .container .col-md-6, .container .col-md-7, .container .col-md-8, .container .col-md-9, .container .col-md-12 {
+    background-color: #aaa3f7;
+    border: 1px solid #000;
+    border-radius: 5px;
+    text-align: center; }
+  .container p {
+    text-align: center;
+    margin: 3px; }
+
+/*# sourceMappingURL=master.css.map */

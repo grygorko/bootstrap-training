@@ -1,0 +1,18 @@
+.container {
+  background-color: #aaa3f7;
+  border-radius: 5px;
+  border: 1px solid #000;
+  margin: 5px;
+  .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5,
+  .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-12{
+    background-color: #aaa3f7;
+    border: 1px solid #000;
+    border-radius: 5px;
+    text-align: center;
+
+  }
+  p {
+    text-align: center;
+    margin:  3px;
+  }
+}
